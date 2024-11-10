@@ -8,4 +8,4 @@ Pendant le temps du démarrage qui dure quelques secondes, le temps d'injection 
 Le +12V est pris sur l'un des 2 fils de l'injecteur, c'est un 12V présent quand le contact est mis.
 La masse est prise sur le moins de la batterie.
 L'autre fil de l'injecteur est coupé, le côté qui va au calculateur est branché à l'entrée ECU du module, et l'autre nommé INJ va à l'injecteur.
-Le fichier de programmation du PIC est 
+Le fichier de programmation du PIC joint est 16F628.HEX.
