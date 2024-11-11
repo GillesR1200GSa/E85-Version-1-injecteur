@@ -1,5 +1,5 @@
 J'ai utilisé ce montage pour mes précédentes moto, R1100 et R1150.  
-Pour ma R1200 de 2009, j'ai utilisé 2 modules car les 2 injecteurs sont indépendants.
+Pour ma R1200 de 2009, j'ai utilisé 2 modules car les 2 injecteurs sont indépendants, le temps de réaliser une version pour 2 injecteurs.
 
 Le schéma se trouve dans le fichier [schema.pdf](https://github.com/user-attachments/files/17691398/schema.pdf)
 Le microcontrôleur utilisé est un PIC16F628 (le 16F627 convient aussi).  
