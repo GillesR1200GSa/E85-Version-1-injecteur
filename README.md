@@ -28,7 +28,7 @@ Le fichier de programmation du PIC est 16F628.HEX.
 
 N'hésitez pas à me contacter si vous avez des questions.  
 
-![E85x1-1](https://github.com/user-attachments/assets/95a4752e-2688-423d-af8b-d1cac8cd67ed)  
+![E85x1-1](https://github.com/user-attachments/assets/fc7f4c33-14c4-4329-bec7-4dc99d7f11ee)
 
-![E85x1-2](https://github.com/user-attachments/assets/23f46e19-5739-4d98-880b-a275d34dd45b)
+![E85x1-2](https://github.com/user-attachments/assets/cec7f6b6-6d40-43f9-a37a-7efee5910ab8)
 
